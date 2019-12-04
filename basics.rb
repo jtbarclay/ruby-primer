@@ -9,7 +9,7 @@ how to make a variable (do variables have types?)
     
 write to console
     puts (for strings)
-    prits
+    print
 
 =end
 #local variable

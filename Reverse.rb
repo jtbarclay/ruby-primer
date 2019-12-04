@@ -4,5 +4,5 @@ def arrayReverser(arr)
     return arr.reverse()
 end
 
-puts array1
-puts arrayReverser(array1)
+print array1
+print arrayReverser(array1)

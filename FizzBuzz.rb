@@ -10,7 +10,8 @@ def fizzbuzz(num1)
     end
 end
 
-fizzbuzz(33)
-fizzbuzz(35)
-fizzbuzz(30)
-fizzbuzz(7)
+hundred = 100
+
+for i in 1..hundred do
+    fizzbuzz(i)
+end
